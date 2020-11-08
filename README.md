@@ -3,7 +3,7 @@
 ## Project Overview & Purpose
 The purpose of this analysis was to help Pewlett-Hackard determine the number of retiring employees per title, and identify employees who are eligible to participate in a mentorship program. 
 
-To perform the analysis, I used Database Diagram to determine primary and foreign key in each data given. Then I used SQL queries in pgAdmin to filter, join, and retrive relevant data for the given analysis.
+To perform the analysis, I used Database Diagram to determine primary and foreign key in each data given. Then, I used SQL queries in pgAdmin to filter, join, and retrive relevant data for the given analysis.
 
 ![EmployeeDB](EmployeeDB.png)
 
