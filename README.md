@@ -5,6 +5,7 @@ The purpose of this analysis was to help Pewlett-Hackard determine the number of
 
 To perform the analysis, I used Database Diagram to determine primary and foreign key in each data given. Then I used SQL queries in pgAdmin to filter, join, and retrive relevant data for the given analysis.
 
+![EmployeeDB](EmployeeDB.png)
 
 ## Resources
 Data Source: departments.csv, dept_emp.csv, dept_manager.csv, employees.csv, salaries.csv, titles.csv
